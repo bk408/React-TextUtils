@@ -1,6 +1,7 @@
-import React, { useState } from 'react'
+/* import React, { useState } from 'react' */
 
-export default function About() {
+
+/*export default function About() {
 
 
     const [myStyle, setMyStyle]  =  useState({
@@ -77,4 +78,4 @@ export default function About() {
  </div>
     </div>
   )
-}
+}*/
